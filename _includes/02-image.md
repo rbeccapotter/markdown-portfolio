@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Rainbow Goddess Cat](https://i0.wp.com/www.cutesypooh.com/wp-content/uploads/2020/01/0127u1-1.jpg?w=600&ssl=1)
