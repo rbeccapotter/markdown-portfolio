@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Resume](https://crimcheck.net/news/the-9-worst-resumes-ever-received-by-recruitment-managers/)
