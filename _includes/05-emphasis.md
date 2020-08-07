@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have 33 years experience in being **awesome** which I partially attribute to being a distant relative of *Harry Potter*. My skills in crafting and executing _unique_ charms are **highly sought after** throughout the wizarding world. 
